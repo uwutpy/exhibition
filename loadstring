@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/uwutpy/exhibition/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uwutpy/gui/main/main.lua", true))()
